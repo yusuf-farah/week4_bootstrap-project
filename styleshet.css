@@ -1,0 +1,37 @@
+﻿body {
+}
+
+.center {
+    background-color: darkgray;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    padding: 0px 0px 0px 0px;
+}
+
+.col-sm-9 {
+}
+
+p1 {
+    color: white;
+}
+
+.map {
+    padding-right: 0px;
+    padding-left: 0px; 
+    background-image:url(images/map.jpg);
+    text-align:right;
+    background-size:cover;  
+    height:400px;
+
+.mainPic{
+    padding-right: 0px;
+    padding-left: 0px;
+    background-image:url(images/MainPic.jpg);
+    background-size:cover;
+    height:400px
+}
+
+display inline
